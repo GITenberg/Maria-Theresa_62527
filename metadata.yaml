@@ -1,0 +1,42 @@
+_repo: Maria-Theresa_62527
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Horn, W. O. von
+    aliases:
+    - Oertel, Wilhelm
+    - Oertel, Friedrich Wilhelm Philipp
+    - Von Horn, W. O.
+    - Oertel, Phillip F. W.
+    - Oertel, W. (Wilhelm)
+    birthdate: 1798
+    deathdate: 1867
+    gutenberg_agent_id: '49294'
+    url: http://www.gutenberg.org/2009/agents/49294
+    wikipedia: https://de.wikipedia.org/wiki/W._O._von_Horn
+description: ''
+gutenberg_issued: '2020-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62527'
+  lccn: '05032426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Life Stories for Young People
+subjects:
+- !lcc 'DB'
+- !lcsh 'Maria Theresa, Empress of Austria, 1717-1780'
+- GITenberg
+title: Maria Theresa
+url: http://www.gutenberg.org/ebooks/62527
