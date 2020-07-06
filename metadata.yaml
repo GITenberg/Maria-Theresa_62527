@@ -1,5 +1,5 @@
 _repo: Maria-Theresa_62527
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Upton, George P. (George Putnam)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+covers:
+- cover_type: archival
+  image_path: 62527-h/images/cover.jpg
 creator:
   author:
     agent_name: Horn, W. O. von
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49294
     wikipedia: https://de.wikipedia.org/wiki/W._O._von_Horn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62527#Maria-Theresa
 gutenberg_issued: '2020-06-30'
 gutenberg_type: Text
 identifiers:
